@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 80rem !important; 
+    border: 1px solid white;
+    height: 46rem !important; 
+   margin:  3.125rem auto ;
+    background-color:  hsl(30, 38%, 92%);
+}
+
+.row{
+    width: 34rem !important;
+    height: 23rem;
+    margin: 6.25rem auto !important;
+
+}
+.image-fluid  {
+    width: 17rem !important;
+    height: 23rem !important;
+} 
+.col-md-6{
+    width: 17rem !important;
+    height: 23rem !important;
+}
+.text-dark{
+    color: hsl(212, 21%, 14%) !important;
+    font-family: 'Fraunces'!important;
+}
+.fs-5 text{
+    font-size: 10px !important;
+    font-family: 'Montserrat' ;
+}
+
+.text-secondary{
+    color: hsl(228, 12%, 48%) !important; 
+    font-family: 'Montserrat';
+}
+
+.text-success{
+ color:  hsl(158, 36%, 37%) !important;  
+}
